@@ -16,6 +16,7 @@ Responsive Design: Accessible on both desktop and mobile devices.
 Clone the Repository:
 
 git clone [https://github.com/calebtetteh2000/Stock-Management-System/tree/main](https://github.com/calebtetteh2000/Stock-Management-System.git)
+
 cd inventory-management-system
 
 ### Create and Activate a Virtual Environment:
